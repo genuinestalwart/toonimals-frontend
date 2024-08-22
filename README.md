@@ -1,11 +1,18 @@
 # Toonimals | Frontend
 
+This is the frontend code of [https://github.com/genuinestalwart/toonimals-backend](https://github.com/genuinestalwart/toonimals-backend)
+
 > *A simple cartoon-like animal listing site.*
 
 ## Technologies Used
 
 - Next.js
 - Chakra UI
+- TailwindCSS
+- TypeScript
+- Axios
+- Tanstack Query
+- React Hook Form
 
 ## Documentation
 
