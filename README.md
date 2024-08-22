@@ -15,7 +15,7 @@ If you want to create this project on your own, do the following steps:
 
     ```bash
     npx create-next-app@latest
-    npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion axios @tanstack/react-query
+    npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion axios @tanstack/react-query react-hook-form
     ```
 
 2. Add these lines in `postcss.config.mjs`.
